@@ -1,1 +1,1 @@
-deno run --allow-all ./index.ts
+deno run --allow-all ./index.ts     
